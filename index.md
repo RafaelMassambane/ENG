@@ -6,6 +6,7 @@ Roteiro do trabalho:
 2. Planejar e projetar: geração de opções de projeto, escolha de opção de projeto, desenvolvimento, aprimoramento, detalhamento; 
 3. Construir e executar: protótipo; produção 
 Assim, podemos descrever os seguintes passos: 
+
 Identificação de oportunidade 
 Análise do problema (levantamento de informações) 
 Geração de ideias (fontes / técnicas) 
